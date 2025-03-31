@@ -1,6 +1,5 @@
 <h1 align="center">Mohammed Belfellah</h1>
 <h3 align="center">21-year-old Web Developer & AI Automation Expert</h3>
-<p align="center"><strong>"Automate everything—because if you don't, I'm not your mom."</strong></p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"/>
 
@@ -29,11 +28,6 @@ WhatsApp Chatbots, AI Agents (NA10)
 
 ### 🔹 ERP & Business Tools:
 Odoo, REST APIs, Webhooks
-
-## 🔭 Current Work
-- Working on integrating cutting-edge automation systems using AI and web technologies
-- Check out my [Weather App Project](https://weather-app-alpha-flame.vercel.app/)
-- Learning advanced techniques in **Next.js** and **TypeScript**
 
 ## 👯 Collaboration
 I'm always open to collaborating on automation projects that push the limits of efficiency. If you're looking to automate a process, let's crack the system together.
