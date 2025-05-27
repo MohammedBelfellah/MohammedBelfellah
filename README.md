@@ -35,7 +35,7 @@ I'm always open to collaborating on automation projects that push the limits of 
 ## 📫 Let's Connect:
 - LinkedIn: [Mohammed Belfellah](https://www.linkedin.com/in/mohammed-belfellah-650788280/)
 - Email: **mohammedbelfellah2@gmail.com**
-- Dev.to: [belfellahdev](https://dev.to/belfellahdev)
+- Dev.to: [belfellahdev](https://portfolio.belfellah.space/)
 - GitHub: [MohammedBelfellah](https://github.com/MohammedBelfellah)
 
 <h3 align="left">Connect with me:</h3>
